@@ -1,0 +1,41 @@
+body {
+    background-image: url("https://avatars.mds.yandex.net/i?id=98a6ddd99a86d59e4704d634a3f35bfa0574950e-8265302-images-thumbs&n=13");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover ;
+}
+#wrap {
+    width: 600px;
+    margin: auto;
+    background-color: aliceblue;
+ padding: 20px;
+}
+img {
+    width: 100%;
+}
+.test {
+    color: royalblue;
+}
+.name {
+    color: gold;
+    text-decoration: underline;
+    font-weight: 600;
+}
+a {
+    color: forestgreen;
+    padding: 4px 10px;
+    text-decoration: none;
+}
+nav {
+    text-align: center;
+}
+a:hover {
+    color: chocolate;
+}
+h1 {
+    color: navy;
+    color:blueviolet
+}
+.rankor {
+    color: aqua;
+}
